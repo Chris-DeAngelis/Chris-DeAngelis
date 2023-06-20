@@ -1,5 +1,5 @@
 ---
-layout: title	subtitle page
+layout: page
 title: Chris DeAngelis, CFA
 subtitle: Senior Finance & Data Analyst with 10+ Years of Executive Office Visibility
 ---
